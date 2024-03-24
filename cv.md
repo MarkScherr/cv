@@ -1,12 +1,12 @@
 # Garth Mortensen
 
-Contact: mortensengarth@outlook.com | (612) 212-9519 | Minneapolis, MN
+Contact: [mortensengarth@outlook.com](mailto:mortensengarth@outlook.com) | (612) 212-9519 | Minneapolis, MN
 
-Profile: [linkedin.com/in/mortensengarth](linkedin.com/in/mortensengarth) | [github.com/garthmortensen](github.com/garthmortensen)
+Profile: [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth) | [github.com/garthmortensen](https://www.github.com/garthmortensen)
 
 ## Dev & Data Scientist
 
-Experienced dev skilled in python, databases, linux, OOP, and data science. Ability to dissect problems and prototype fullstack solutions.
+Experienced dev skilled in python, databases, linux, OOP, and data science. Ability to dissect problems and deliver fullstack prototype solutions.
 
 ---
 
@@ -21,7 +21,7 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 - Bridged the gap between frontend and database support teams, and Production modeling team to ensure smooth integration. Developed database version diff tool to rapidly identify and resolve issues.
 - Proactively introduced unit testing, autotesting, and autodocs to python infrastructure. Co-championed long-term plan to streamline code releases.
 - Independently worked to improve model reproducibility via automation of security, dirs, conda, ssh, git, variable OS modules. Worked on OS migration, chmod enablement and GitLab runners.
-- Co-prototyped a fullstack data management system using Flask, SQLite, and HTML/CSS using dynamic SQL queries, data entry forms, endpoints. Work remains to productionalize it.
+- Co-prototyped a fullstack data management system using Flask and SQLite using dynamic SQL queries, HTML forms, endpoints. Currently productionalizing.
 
 ### University of Minnesota
 **Instructor, FinTech Bootcamp. [Student Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews)**
@@ -32,7 +32,7 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 - Scored 9/10 across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
 
 ### Medica
-**Sr. Healthcare Analyst, Healthcare Economics.**
+**Sr. Healthcare Analyst**
 *Minnetonka, MN - 11/2019 – 06/2022*
 
 - Implemented models to predict member diagnoses.
@@ -67,7 +67,7 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 *San Francisco, CA - 12/2013 – 07/2014*
 
 - Analyzed industry factors influencing construction industry costs (material/labor) and forecast prices.
-- Overhauled cost benchmarking using early industry indicators, resulting in algorithmic, repreproducible cost setting.
+- Overhauled cost benchmarking using early industry indicators, resulting in algorithmic, reproducible cost setting.
 - Delivered data-driven market analysis reports and product presentations to Federal client.
 
 ### GE Capital REIM
@@ -107,21 +107,26 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 
 ### St. Thomas University
 St. Paul, USA. 2023
-  - Double MSc in Software Engineering and Data Science
-  - Double MSc Certifications in AI and Big Data
-  - GPA 3.9
+
+- Double MSc in Software Engineering and Data Science
+- Double MSc Certifications in AI and Big Data
+- GPA 3.9
+
 ### EDHEC Business School
 Nice, France. 2012
-  - MSc Finance
+
+- MSc Finance
+
 ### Hamline University
 St. Paul, USA. 2007
-  - BA Economics
+
+- BA Economics
 
 ---
 
 ## Skills
 
-**Tech ♥**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Strong desire to create decoupled microservices, serve APIs (RESTful/GraphQL), and provide fullstack, 12-factor app-ish solutions.
+**Tech love**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Strong desire to create decoupled microservices, serve APIs (RESTful/GraphQL), and provide fullstack, 12-factor app-ish solutions.
 
 **Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
 
