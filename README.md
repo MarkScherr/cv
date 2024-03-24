@@ -1,5 +1,11 @@
 # cv
 
+convert to pdf?
+```bash
+ 1420  pandoc cv.md -o cv.docx\n
+ 1421  pandoc --pdf-engine=xelatex cv.md -o cv.pdf\n
+```
+
 ## Advantages of OOP skills in analysis
 
 Analytical work often focuses on columnar operations, while web development and other applications lean towards row-level OOP. Here's why this divide exists and the advantage of OOP skills in an analyst:
