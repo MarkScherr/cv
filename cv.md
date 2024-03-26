@@ -6,7 +6,7 @@ Profile: [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortenseng
 
 ## Dev & Data Scientist
 
-Experienced dev skilled in python, databases, linux, OOP, and data science. Ability to dissect problems and deliver fullstack prototype solutions.
+Experienced dev skilled in python, databases, linux, OOP, and data science. Ability to dissect problems and prototype fullstack solutions.
 
 ---
 
@@ -14,17 +14,17 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 
 ### Federal Reserve Bank of Minneapolis
 
-**Sr. Data Scientist, Stress Testing.**
+**Sr. Data Scientist, Stress Testing Production.**
 *Minneapolis, MN - 06/2022 – Present*
 
-- Contributed to infrastructure, econometric modeling, and dashboards.
-- Bridged the gap between frontend and database support teams, and Production modeling team to ensure smooth integration. Developed database version diff tool to rapidly identify and resolve issues.
-- Proactively introduced unit testing, autotesting, and autodocs to python infrastructure. Co-championed long-term plan to streamline code releases.
-- Independently worked to improve model reproducibility via automation of security, dirs, conda, ssh, git, variable OS modules. Worked on OS migration, chmod enablement and GitLab runners.
+- Contributed to infrastructure, econometric models, and dashboards.
+- Bridged the gap between frontend and database support team, and Production econometric modeling team to ensure smooth integration. Developed database version diff tool to rapidly identify and resolve issues.
+- Proactively introduced unit testing, autotesting, and autodocs to python repos. Co-championed long-term plan to streamline code releases.
+- Independently worked to improve model reproducibility via automation of security, conda, ssh, git, variable OS modules. Worked on OS migration, chmod enablement and GitLab runners.
 - Co-prototyped a fullstack data management system using Flask and SQLite using dynamic SQL queries, HTML forms, endpoints. Currently productionalizing.
 
-### University of Minnesota
-**Instructor, FinTech Bootcamp. [Student Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews)**
+### University of Minnesota FinTech Bootcamp
+**Instructor. [Student Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
 *Saint Paul, MN - 09/2021 – 04/2023*
 
 - Taught Python programming to working professionals, ranging from sysadmins to finance directors.
@@ -38,9 +38,9 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 - Implemented models to predict member diagnoses.
 - Discovered a technique to automate reconcile databases, requiring `.xml` and unstructured data processing.
 - Configured bare-metal RHEL server with required libraries, then scripted OCR process to extract `.pdf` info and insert into database.
-- In zero-sum ACA marketplace, consistently outperformed competition.
+- In zero-sum ACA marketplace, United Health Group outperformed competition.
 
-### UHG R&D
+### United Health Group R&D
 **Developer/Data Scientist, contract.**
 *Minneapolis, MN - 01/2019 – 11/2019*
 
@@ -52,8 +52,8 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 **Sr. Data Analyst.**
 *Minneapolis, MN - 05/2017 – 12/2018*
 
-- Swept filesystem for all unstructured, disparate claims and programmatically transformed them into structured data. Designed and populated a 7+ million record star-schema database.
-- Analyzed this DIY database to discover insights such as leading diagnoses by prevalence and cost.
+- Programmatically swept filesystem for all unstructured, disparate claims and transformed them into structured data. Designed and populated a 7+ million record star-schema database.
+- Analyzed DIY database to discover insights such as leading diagnoses by prevalence and cost.
 - Created and deployed custom-built productivity tools with a GUI frontends.
 
 ### Decyphed
@@ -83,7 +83,7 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 *Beijing, China - 02/2009 – 07/2011*
 
 - Led a 15+ international team in the creation of an economics news show. Led by example, working 6 months straight without weekends or PTO in order to satisfy high pressure deadline.
-- Innovated demand-driven airtime allocation, using API article topic demand divided by total. Approach was anonymously leaked to CNN International, and appeared on their broadcast lineup for months. Frustrating.
+- Innovated demand-driven airtime allocation, using API article topic demand divided by total. Approach was anonymously leaked to CNN International, and appeared on their broadcast lineup for months to years. Still bitter.
 - Economics news program ended up selling content to top global news channels and advertising in Times Square.
 
 ### Caijing Magazine
@@ -98,8 +98,8 @@ Experienced dev skilled in python, databases, linux, OOP, and data science. Abil
 
 *Minneapolis, Minnesota.* 1/2001 – 12/2007
 
-- College: Owner of small brick-and-mortar business providing website design, search engine optimization and graphic design services.
-- High school/college: Employee of small business providing graphic design, search engine optimization and offsite storage services.
+- College: Owner of brick-and-mortar business providing website design, search engine optimization and graphic design services.
+- High school/college: Employee of small business providing graphic design, search engine optimization and offsite hosting/storage services.
 
 ---
 
@@ -126,7 +126,7 @@ St. Paul, USA. 2007
 
 ## Skills
 
-**Tech love**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Strong desire to create decoupled microservices, serve APIs (RESTful/GraphQL), and provide fullstack, 12-factor app-ish solutions.
+**Tech**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Aspiring to build decoupled microservices, APIs (RESTful/GraphQL), fullstack prototyping, 12-factor app solutions.
 
 **Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
 
