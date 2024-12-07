@@ -1,7 +1,6 @@
 # Garth Mortensen
 
-Contact: <mortensengarth@outlook.com> \| (612) 212-9519 \| Minneapolis,
-MN
+Contact: <mortensengarth@outlook.com> \| (612) 212-9519 \| Minneapolis, MN
 
 Profile:
 [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
@@ -9,20 +8,19 @@ Profile:
 
 ## Dev & Data Scientist
 
-Versatile polyglot programmer proficient in python, SQL (databases), R, etc. Skilled in linux, OOP, and data science. Able to dissect complex problems and refactor into microservice solutions.
+Versatile programmer proficient in python, SQL (databases), R, etc. Skilled in Linux, OOP, data science. Teaching experience.
 
 ## Professional Experience
 
 ### Federal Reserve Bank of Minneapolis
 
-**Sr. Data Scientist, Stress Testing Production.** *Minneapolis, MN -
-06/2022 -- Present*
+**Sr. Data Scientist, National Stress Testing, Production.** *Minneapolis, MN - 06/2022 -- Present*
 
--   Contributed to infrastructure, econometric models, and dashboards.
--   Bridged the gap between frontend and database support team, and Production econometric modeling team to ensure smooth integration. Developed database version diff tool to rapidly identify and resolve issues.
--   Proactively introduced unit testing, autotesting, and autodocs to python repos. Co-championed long-term plan to streamline code releases.
--   Independently worked to improve model reproducibility via automation of security, conda, ssh, git, variable OS modules. Worked on OS migration, chmod enablement and GitLab runners.
--   Co-prototyped a fullstack data management system using Flask and SQLite using dynamic SQL queries, HTML forms, endpoints. Currently productionalizing.
+-   Contributed to econometric models, infrastructure, dashboards, adhoc analyses for consumption by Board of Governors (Jerome Powell).
+-   Served as Production econometric modeling team's technical liaison to frontend, database and sysadmin teams, ensuring smooth integration.
+-   Technical lead in migrating Production codebase across OS, language versions, environments, while distributing and popularizing DIY automation tools to support fellow quants and economists.
+-   Proactively introduced unit testing, autotesting, and autodocs to python repos.
+-   Co-prototyped a fullstack data management system using Flask and SQLite using dynamic SQL queries, HTML forms, endpoints.
 
 ### University of Minnesota FinTech Bootcamp
 
@@ -39,7 +37,7 @@ Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?
 **Sr. Healthcare Analyst** *Minnetonka, MN - 11/2019 -- 06/2022*
 
 -   Implemented models to predict member diagnoses.
--   Discovered a technique to automate reconcile databases, requiring `.xml` and unstructured data processing.
+-   Discovered a technique to automate database reconciliation, requiring `.xml` and unstructured data processing.
 -   Configured bare-metal RHEL server with required libraries, then scripted OCR process to extract `.pdf` info and insert into database.
 -   In zero-sum ACA marketplace, United Health Group outperformed competition.
 
@@ -103,7 +101,7 @@ Francisco, CA - 12/2013 -- 07/2014*
 
 *Minneapolis, Minnesota.* 1/2001 -- 12/2007
 
--   College: Owner of brick-and-mortar business providing website design, search engine optimization and graphic design services.
+-   College: Owner of brick-and-mortar art studio providing website design, search engine optimization and graphic design services.
 -   High school/college: Employee of small business providing graphic design, search engine optimization and offsite hosting/storage services.
 
 ## Formal Education
