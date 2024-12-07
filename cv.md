@@ -6,7 +6,7 @@ Profile:
 [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 \| [github.com/garthmortensen](https://www.github.com/garthmortensen)
 
-## Dev & Data Scientist
+## Data Scientist
 
 Versatile programmer proficient in python, SQL (databases), R, etc. Skilled in Linux, OOP, data science. Teaching experience.
 
