@@ -2,8 +2,8 @@
 
 convert to pdf?
 ```bash
- 1420  pandoc cv.md -o cv.docx\n
- 1421  pandoc --pdf-engine=xelatex cv.md -o cv.pdf\n
+pandoc cv.md -o cv.docx
+pandoc --pdf-engine=xelatex cv.md -o cv.pdf
 ```
 
 ## Advantages of OOP skills in analysis

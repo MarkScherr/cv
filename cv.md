@@ -8,19 +8,20 @@ Profile:
 
 ## Data Scientist
 
-Versatile programmer proficient in python, SQL (databases), R, etc. Skilled in Linux, OOP, data science. Teaching experience.
+Data Scientist experienced in data science, software engineering, and team leadership. Passionate about building innovative solutions and fostering professional growth. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
 
 ## Professional Experience
 
 ### Federal Reserve Bank of Minneapolis
 
-**Sr. Data Scientist, National Stress Testing, Production.** *Minneapolis, MN - 06/2022 -- Present*
+**Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
 
--   Contributed to econometric models, infrastructure, dashboards, adhoc analyses for consumption by Board of Governors (Jerome Powell).
--   Served as Production econometric modeling team's technical liaison to frontend, database and sysadmin teams, ensuring smooth integration.
--   Technical lead in migrating Production codebase across OS, language versions, environments, while distributing and popularizing DIY automation tools to support fellow quants and economists.
--   Proactively introduced unit testing, autotesting, and autodocs to python repos.
--   Co-prototyped a fullstack data management system using Flask and SQLite using dynamic SQL queries, HTML forms, endpoints.
+-   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
+-   Served as Production econometric team's python lead, and liaison to database, ETL, HPC, sysadmin teams, ensuring smooth integration.
+-   Proactively introduced unit testing, CI/CD, makefiles, simple-English docs to repos.
+-   Trained economists in Python, Linux, and computer science principles, enabling self-sufficiency.
+-   Technical lead in migrating Production codebase across OS, language versions, environments, enabling reproducibility.
+-   Prototyped a fullstack data management system for tracking Stress Testing operations.
 
 ### University of Minnesota FinTech Bootcamp
 
@@ -39,7 +40,7 @@ Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?
 -   Implemented models to predict member diagnoses.
 -   Discovered a technique to automate database reconciliation, requiring `.xml` and unstructured data processing.
 -   Configured bare-metal RHEL server with required libraries, then scripted OCR process to extract `.pdf` info and insert into database.
--   In zero-sum ACA marketplace, United Health Group outperformed competition.
+-   In zero-sum ACA marketplace, consistently outperformed competition.
 
 ### United Health Group R&D
 
@@ -132,4 +133,4 @@ St. Paul, USA. 2007
 
 **Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
 
-**Languages**: English, French and Mandarin Chinese (CEFR B2 basic fluency, but diminishing).
+**Languages**: English, French and Mandarin Chinese (CEFR B2, but diminishing).
