@@ -6,11 +6,11 @@ Profile:
 [github.com/garthmortensen](https://www.github.com/garthmortensen)
 \| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
-**Latest Resume:** [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.docx)
+Latest version: [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.docx)
 
 ## Data Scientist
 
-Data Scientist experienced in data science, software engineering, and team leadership. Passionate about building innovative solutions and fostering professional growth. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
+Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
 
 ## Professional Experience
 
