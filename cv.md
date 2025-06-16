@@ -3,8 +3,8 @@
 Contact: <mortensengarth@outlook.com> \| (612) 212-9519 \| Minneapolis, MN
 
 Profile:
-[linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
-\| [github.com/garthmortensen](https://www.github.com/garthmortensen)
+[github.com/garthmortensen](https://www.github.com/garthmortensen)
+\| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
 ## Data Scientist
 
