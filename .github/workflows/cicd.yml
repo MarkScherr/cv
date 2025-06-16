@@ -1,0 +1,56 @@
+name: Convert Markdown to pdf and docx
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Create output directory
+        run: mkdir -p latest-output
+
+      - name: Add timestamp and commit hash to CV
+        run: |
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          COMMIT_HASH=$(git rev-parse --short HEAD)
+          
+          # Create a temporary CV with timestamp and commit info
+          cp cv.md temp_cv.md
+          echo "" >> temp_cv.md
+          echo "---" >> temp_cv.md
+          echo "" >> temp_cv.md
+          echo "*Last updated: ${TIMESTAMP} | Commit: ${COMMIT_HASH}*" >> temp_cv.md
+
+      - name: Convert Markdown to PDF
+        run: pandoc temp_cv.md -o latest-output/resume.pdf --pdf-engine=pdflatex
+
+      - name: Convert Markdown to DOCX
+        run: pandoc temp_cv.md -o latest-output/resume.docx
+
+      - name: Clean up temporary file
+        run: rm temp_cv.md
+
+      - name: Commit files to the repo
+        run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git add latest-output/resume.pdf latest-output/resume.docx
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m 'Automated PDF and DOCX update [skip ci]'
+            git push
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
