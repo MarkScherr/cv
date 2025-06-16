@@ -1,4 +1,4 @@
-name: Convert Markdown to pdf and docx
+name: Convert Markdown to PDF and DOCX
 
 on:
   push:
@@ -16,8 +16,6 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
@@ -46,16 +44,15 @@ jobs:
       - name: Clean up temporary file
         run: rm temp_cv.md
 
-      - name: Commit files to the repo
-        run: |
-          git config --local user.name 'github-actions[bot]'
-          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m 'Automated PDF and DOCX update [skip ci]'
-            git push
-          fi
+      - name: Create or update release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest Resume
+          body: "Automatically generated resume files"
+          files: |
+            latest-output/cv_garthmortensen.pdf
+            latest-output/cv_garthmortensen.docx
+          prerelease: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
