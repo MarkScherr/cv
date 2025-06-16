@@ -6,6 +6,8 @@ Profile:
 [github.com/garthmortensen](https://www.github.com/garthmortensen)
 \| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
+**Latest Resume:** [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/resume.docx)
+
 ## Data Scientist
 
 Data Scientist experienced in data science, software engineering, and team leadership. Passionate about building innovative solutions and fostering professional growth. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
@@ -17,8 +19,8 @@ Data Scientist experienced in data science, software engineering, and team leade
 **Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
 
 -   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
--   Served as Production econometric team's python lead, and liaison to database, ETL, HPC, sysadmin teams, ensuring smooth integration.
--   Proactively introduced unit testing, CI/CD, makefiles, simple-English docs to repos.
+-   Served as Production econometric team's informal python lead, and formal liaison to middle and backend teams, ensuring smooth integration.
+-   Proactively introduced unit testing, CI/CD, makefiles, simple-English docs.
 -   Trained economists in Python, Linux, and computer science principles, enabling self-sufficiency.
 -   Technical lead in migrating Production codebase across OS, language versions, environments, enabling reproducibility.
 -   Prototyped a fullstack data management system for tracking Stress Testing operations.
