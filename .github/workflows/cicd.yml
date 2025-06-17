@@ -1,4 +1,4 @@
-name: Convert Markdown to pdf and docx
+name: Convert Markdown to PDF and DOCX
 
 on:
   push:
@@ -25,14 +25,6 @@ jobs:
       - name: Create output directory
         run: mkdir -p latest-output
 
-      - name: Add timestamp and commit hash to CV
-        run: |
-          TIMESTAMP=$(date -u '+%Y-%m-%d')
-          COMMIT_HASH=$(git rev-parse --short HEAD)
-          
-          # Add timestamp and commit info right after the name with clickable commit link
-          sed -i "2i\\Last updated: ${TIMESTAMP} | Commit: [${COMMIT_HASH}](https://github.com/garthmortensen/cv/commit/${COMMIT_HASH})\n" cv.md
-
       - name: Copy CV to README
         run: cp cv.md README.md
 
@@ -46,11 +38,11 @@ jobs:
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add cv.md README.md latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
+          git add README.md latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m 'Automated CV update with timestamp and generated files [skip ci]'
+            git commit -m 'Automated CV update and file generation [skip ci]'
             git push
           fi
         env:

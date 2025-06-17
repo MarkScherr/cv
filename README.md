@@ -1,22 +1,19 @@
 # Garth Mortensen
-Last updated: 2025-06-17 | Commit: [51e70d5](https://github.com/garthmortensen/cv/commit/51e70d5)
 
+Latest CV: [.pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf), [.docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
 
-Latest version: [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
+<mortensengarth@hotmail.com> \| (612) 212-9519 \| Minneapolis, MN
 
-Contact: <mortensengarth@hotmail.com> \| (612) 212-9519 \| Minneapolis, MN
-
-Profile:
-[github.com/garthmortensen](https://www.github.com/garthmortensen)
-\| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
+[GitHub](https://www.github.com/garthmortensen)
+\| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
 
 ## Data Scientist
 
-Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical audiances.
+Experienced data scientist and creative software engineer, fluent in CI/CD and end-to-end production systems.
 
-## Latest Project: [SpilloverLab.com](https://www.spilloverlab.com)
+## Featured Project: [SpilloverLab.com](https://www.spilloverlab.com)
 
-Financial time series analysis platform that performs ARIMA/GARCH/spillover modeling. It provides human-readable interpretations, visualizations, [REST APIs](https://api.spilloverlab.com/redoc), [GraphQL](https://api.spilloverlab.com/v1/graphql/), and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agents. Build for modular, microservice cloud-hosted architecture, and [fully documented](https://timeseries-compute.readthedocs.io/en/latest/) using CI/CD pipelines.
+A live financial time series analysis platform featuring ARIMA, GARCH, and spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control.  Built with a modular, microservice-based architecture, deployed to the cloud, and [fully documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), and [quality controlled](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
 
 ## Professional Experience
 
@@ -26,28 +23,27 @@ Financial time series analysis platform that performs ARIMA/GARCH/spillover mode
 
 -   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
 -   Served as Production econometric team's informal python lead, and formal liaison to middle and backend teams, ensuring smooth integration.
--   Proactively introduced unit testing, CI/CD, makefiles, simple-English docs.
--   Trained economists in Python, Linux, and computer science principles, enabling self-sufficiency.
--   Technical lead in migrating Production codebase across OS, language versions, environments, enabling reproducibility.
--   Prototyped a fullstack data management system for tracking Stress Testing operations.
+-   Proactively introduced unit testing, CI/CD, Makefiles, simple-English docs.
+-   Trained economists in Python, Linux, and computer science principles, promoting self-sufficiency.
+-   Technical lead in migrating Production codebase across OS, language versions, environments, enabling mission-critical reproducibility.
 
-### University of Minnesota FinTech Bootcamp
+### University of Minnesota Coding Bootcamp
 
-**Instructor. [Student
+**Fintech Instructor. [Student
 Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
 *Saint Paul, MN - 09/2021 -- 04/2023*
 
 -   Taught Python programming to working professionals, ranging from sysadmins to finance directors.
--   Explored cutting-edge topics such as Machine Learning/AI and blockchain/Solidity smart contracts.
+-   Explored cutting-edge topics such as ML/AI and blockchain/Solidity smart contracts.
 -   Scored 9/10 across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
 
 ### Medica
 
 **Sr. Healthcare Analyst** *Minnetonka, MN - 11/2019 -- 06/2022*
 
--   Implemented models to predict member diagnoses.
--   Discovered a technique to automate database reconciliation, requiring `.xml` and unstructured data processing.
--   Configured bare-metal RHEL server with required libraries, then scripted OCR process to extract `.pdf` info and insert into database.
+-   Implemented models to predict member health scores.
+-   Discovered techniques to automate database reconciliation.
+-   Configured bare-metal Linux server to run automated OCR process to ETL `.pdf` information into database.
 -   In zero-sum ACA marketplace, consistently outperformed competition.
 
 ### United Health Group R&D
@@ -55,21 +51,21 @@ Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?
 **Developer/Data Scientist, contract.** *Minneapolis, MN - 01/2019 --
 11/2019*
 
--   Developed healthcare claims analyses using SQL, Python, and machine learning concepts, resulting in actionable findings presented to the CEO.
--   Authored scripts for transforming data, pulling from APIs, ETL, validation, and visualizations.
--   Worked on the development of a next-gen big data database for health researchers.
+-   Replicated academic research on internal data to uncover actionable insights presented to the CEO.
+-   Built end-to-end data pipelines: API ingestion, transformation, validation, and visualization.
+-   Contributed to the design and development of a next-gen big data platform for health research.
 
 ### Munich Reinsurance
 
 **Sr. Data Analyst.** *Minneapolis, MN - 05/2017 -- 12/2018*
 
--   Programmatically swept filesystem for all unstructured, disparate claims and transformed them into structured data. Designed and populated a 7+ million record star-schema database.
--   Analyzed DIY database to discover insights such as leading diagnoses by prevalence and cost.
--   Created and deployed custom-built productivity tools with a GUI frontends.
+-   Programmatically scanned and transformed unstructured claims data into a structured 7M+ record star-schema database.
+-   Analyzed the resulting dataset to surface insights, including reports for top diagnoses by cost and prevalence, and ML decision tree to predict claims.
+-   Built and deployed custom productivity tools with clean, user-friendly UI frontends.
 
 ### Decyphed
 
-**Entrepreneurial NLP Developer.** *Paris, France - 05/2015 -- 01/2016*
+**Entrepreneurial NLP Dev.** *Paris, France - 05/2015 -- 01/2016*
 
 -   Programmed text analysis plug-ins/tools specialized in language learning applications.
 
@@ -94,9 +90,9 @@ Francisco, CA - 12/2013 -- 07/2014*
 
 **Financial News.** *Beijing, China - 02/2009 -- 07/2011*
 
--   Led a 15+ international team in the creation of an economics news show. Led by example, working 6 months straight without weekends or PTO in order to satisfy high pressure deadline.
--   Innovated demand-driven airtime allocation, using API article topic demand divided by total. Approach was anonymously leaked to CNN International, and appeared on their broadcast lineup for months to years. Still bitter.
--   Economics news program ended up selling content to top global news channels and advertising in Times Square.
+-   Led a 15+ person international team to launch a new economics news show, working 6+ months without PTO to meet a high-stakes deadline.
+-   Developed a demand-driven airtime allocation algorithm based on API-driven topic popularity; the method was later leaked to CNN International and appeared on their daily broadcast lineup.
+-   The program successfully sold content to major global news networks including CNN and Nikkei.
 
 ### Caijing Magazine
 
@@ -110,8 +106,8 @@ Francisco, CA - 12/2013 -- 07/2014*
 
 *Minneapolis, Minnesota.* 1/2001 -- 12/2007
 
--   College: Owner of brick-and-mortar art studio providing website design, search engine optimization and graphic design services.
--   High school/college: Employee of small business providing graphic design, search engine optimization and offsite hosting/storage services.
+-   College: Owner of brick-and-mortar studio providing website design, SEO and graphic design services.
+-   High school: Employee of small business providing graphic design, SEO and offsite hosting/storage services.
 
 ## Formal Education
 
