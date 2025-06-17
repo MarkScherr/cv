@@ -1,4 +1,4 @@
-# cv
+# CV Garth Mortensen
 
 convert to pdf?
 ```bash
@@ -9,12 +9,6 @@ pandoc --pdf-engine=xelatex cv.md -o cv.pdf
 ## Advantages of OOP skills in analysis
 
 Analytical work often focuses on columnar operations, while web development and other applications lean towards row-level OOP. Here's why this divide exists and the advantage of OOP skills in an analyst:
-
-    Different Focus:
-        Analysts typically use Python for data analysis, which involves manipulating large datasets, often with libraries like pandas. This work is more about applying functions to entire columns rather than manipulating individual objects. OOP is more common in software development, where you're building applications, and the focus is on creating and interacting with objects, each representing a row or a unique entity.
-
-    Skill Set and Background:
-        Many analysts come from a statistical or mathematical background, not computer science. They learn enough Python to handle data efficiently, which may not include deep dives into OOP. OOP requires understanding concepts like classes, inheritance, and polymorphism, which might not be immediately relevant to typical analytical tasks.
 
     Advantage of OOP Skills:
         An analyst with OOP skills can build more modular, reusable, and scalable code. This is especially useful in complex data processing pipelines where encapsulating processes in classes can make the code cleaner and more maintainable. They can bridge the gap between data analysis and software development, contributing to a wider range of projects. OOP skills allow for the creation of custom data models, which can be more efficient for certain types of data processing and analysis.

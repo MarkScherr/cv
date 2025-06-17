@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
@@ -28,31 +30,25 @@ jobs:
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
           COMMIT_HASH=$(git rev-parse --short HEAD)
           
-          # Create a temporary CV with timestamp and commit info
-          cp cv.md temp_cv.md
-          echo "" >> temp_cv.md
-          echo "---" >> temp_cv.md
-          echo "" >> temp_cv.md
-          echo "*Last updated: ${TIMESTAMP} | Commit: ${COMMIT_HASH}*" >> temp_cv.md
+          # Add timestamp and commit info right after the name
+          sed -i "2i\\*Last updated: ${TIMESTAMP} | Commit: ${COMMIT_HASH}*\n" cv.md
 
       - name: Convert Markdown to PDF
-        run: pandoc temp_cv.md -o latest-output/cv_garthmortensen.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
+        run: pandoc cv.md -o latest-output/resume.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
 
       - name: Convert Markdown to DOCX
-        run: pandoc temp_cv.md -o latest-output/cv_garthmortensen.docx --reference-links
+        run: pandoc cv.md -o latest-output/resume.docx --reference-links
 
-      - name: Clean up temporary file
-        run: rm temp_cv.md
-
-      - name: Create or update release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: latest
-          name: Latest Resume
-          body: "Automatically generated resume files"
-          files: |
-            latest-output/cv_garthmortensen.pdf
-            latest-output/cv_garthmortensen.docx
-          prerelease: false
+      - name: Commit files to the repo
+        run: |
+          git config --local user.name 'github-actions[bot]'
+          git config --local user.email 'github-actions[bot]@users.noreply.github.com'
+          git add cv.md latest-output/resume.pdf latest-output/resume.docx
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m 'Automated CV update with timestamp and generated files [skip ci]'
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

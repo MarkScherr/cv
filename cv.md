@@ -6,11 +6,15 @@ Profile:
 [github.com/garthmortensen](https://www.github.com/garthmortensen)
 \| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
-**Latest version:** [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
+Latest version: [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
 
 ## Data Scientist
 
 Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
+
+## Latest Project: [SpilloverLab.com](https://www.spilloverlab.com)
+
+Financial time series analysis platform that performs ARIMA/GARCH/spillover modeling. It provides human-readable interpretations, visualizations, [REST APIs](https://api.spilloverlab.com/redoc), [GraphQL](https://api.spilloverlab.com/v1/graphql/), and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agents. Build for modular, microservice cloud-hosted architecture, and [fully documented](https://timeseries-compute.readthedocs.io/en/latest/) using CI/CD pipelines.
 
 ## Professional Experience
 
