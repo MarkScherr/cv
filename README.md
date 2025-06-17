@@ -15,7 +15,7 @@ Experienced data scientist and creative software engineer, fluent in CI/CD and e
 
 ## Featured Project: [SpilloverLab.com](https://www.spilloverlab.com)
 
-A live financial time series analysis platform featuring ARIMA, GARCH, and spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control.  Built with a modular, microservice-based architecture, deployed to the cloud, and [fully documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), and [quality controlled](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
+A live financial time series analysis platform featuring ARIMA, GARCH, and spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control.  Built with a modular, microservice-based architecture, deployed to the cloud, and fully [documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), and [quality controlled](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
 
 ## Professional Experience
 
@@ -25,7 +25,7 @@ A live financial time series analysis platform featuring ARIMA, GARCH, and spill
 
 -   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
 -   Served as Production econometric team's informal python lead, and formal liaison to middle and backend teams, ensuring smooth integration.
--   Proactively introduced unit testing, CI/CD, Makefiles, simple-English docs.
+-   Independently introduced unit testing, CI/CD, Makefiles, simple-English docs.
 -   Trained economists in Python, Linux, and computer science principles, promoting self-sufficiency.
 -   Technical lead in migrating Production codebase across OS, language versions, environments, enabling mission-critical reproducibility.
 
