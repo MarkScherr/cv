@@ -1,58 +1,144 @@
-# CV Garth Mortensen
+# Garth Mortensen
+Last updated: 2025-06-17 | Commit: [51e70d5](https://github.com/garthmortensen/cv/commit/51e70d5)
 
-convert to pdf?
-```bash
-pandoc cv.md -o cv.docx
-pandoc --pdf-engine=xelatex cv.md -o cv.pdf
-```
 
-## Advantages of OOP skills in analysis
+Latest version: [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
 
-Analytical work often focuses on columnar operations, while web development and other applications lean towards row-level OOP. Here's why this divide exists and the advantage of OOP skills in an analyst:
+Contact: <mortensengarth@hotmail.com> \| (612) 212-9519 \| Minneapolis, MN
 
-    Advantage of OOP Skills:
-        An analyst with OOP skills can build more modular, reusable, and scalable code. This is especially useful in complex data processing pipelines where encapsulating processes in classes can make the code cleaner and more maintainable. They can bridge the gap between data analysis and software development, contributing to a wider range of projects. OOP skills allow for the creation of custom data models, which can be more efficient for certain types of data processing and analysis.
+Profile:
+[github.com/garthmortensen](https://www.github.com/garthmortensen)
+\| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
-    Building Custom Data Structures:
-        With OOP, analysts can design data structures that precisely fit their data's shape and analysis needs. This can lead to more efficient processing, especially for complex, non-standard data types that don't fit well into traditional DataFrame structures.
+## Data Scientist
 
-    Enhanced Code Reusability and Organization:
-        OOP allows analysts to encapsulate functionality in classes and methods, making code more organized and reusable. For example, an analyst can create a class for a specific type of analysis, and then easily reuse and adapt it for similar tasks.
+Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical audiances.
 
-    Integration with Larger Applications:
-        Analysts with OOP knowledge can contribute to broader software development projects. They can integrate their analysis directly into web applications or build tools that are more interactive and user-friendly than typical scripts or notebooks.
+## Latest Project: [SpilloverLab.com](https://www.spilloverlab.com)
 
-    Advanced Data Manipulation:
-        OOP can be powerful for handling data that changes over time or has complex interactions. For instance, simulating financial models or biological systems can be more intuitive and flexible using object-oriented techniques.
+Financial time series analysis platform that performs ARIMA/GARCH/spillover modeling. It provides human-readable interpretations, visualizations, [REST APIs](https://api.spilloverlab.com/redoc), [GraphQL](https://api.spilloverlab.com/v1/graphql/), and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agents. Build for modular, microservice cloud-hosted architecture, and [fully documented](https://timeseries-compute.readthedocs.io/en/latest/) using CI/CD pipelines.
 
-    Collaboration with Software Developers:
-        An analyst skilled in OOP can work more effectively with software development teams. They speak the same language and understand the architecture and design patterns of the software, making cross-functional projects smoother.
+## Professional Experience
 
-OOP skills in analytics don't just enhance individual capabilities; they bridge the gap between raw data handling and sophisticated software development, leading to more robust and dynamic solutions.
+### Federal Reserve Bank of Minneapolis
 
-## Advantages of full stack skills in analysis
+**Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
 
-Bringing full-stack skills like database management, HTML/CSS/JS, and Django into a data analysis role can significantly enhance both the individual's capabilities and the value they bring to a team.
+-   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
+-   Served as Production econometric team's informal python lead, and formal liaison to middle and backend teams, ensuring smooth integration.
+-   Proactively introduced unit testing, CI/CD, makefiles, simple-English docs.
+-   Trained economists in Python, Linux, and computer science principles, enabling self-sufficiency.
+-   Technical lead in migrating Production codebase across OS, language versions, environments, enabling reproducibility.
+-   Prototyped a fullstack data management system for tracking Stress Testing operations.
 
-    End-to-End Solution Development:
-        With full-stack skills, an analyst can develop complete solutions: from data collection and backend processing (using databases and Django) to presenting results in a user-friendly way through front-end development (HTML/CSS/JS). This ability is invaluable in projects that require quick prototyping or custom tool development.
+### University of Minnesota FinTech Bootcamp
 
-    Improved Data Interaction:
-        Understanding databases allows for more efficient data storage, retrieval, and manipulation. This is crucial for handling large datasets or developing complex queries.
+**Instructor. [Student
+Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
+*Saint Paul, MN - 09/2021 -- 04/2023*
 
-    Enhanced Data Visualization and Reporting:
-        Skills in HTML/CSS/JS enable analysts to create interactive data visualizations and dashboards. This makes communicating insights more effective and engaging, especially for stakeholders who may not be as data-savvy.
+-   Taught Python programming to working professionals, ranging from sysadmins to finance directors.
+-   Explored cutting-edge topics such as Machine Learning/AI and blockchain/Solidity smart contracts.
+-   Scored 9/10 across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
 
-    Automation and Workflow Integration:
-        Knowledge of full-stack development allows for the automation of data pipelines and integration of analysis work into broader business processes. For instance, using Django, an analyst can automate data processing tasks and link them directly to web applications.
+### Medica
 
-    Cross-Functional Collaboration:
-        Full-stack skills facilitate better collaboration with other teams, such as engineering or IT, since the analyst can understand and contribute to more stages of a project, from database design to front-end development.
+**Sr. Healthcare Analyst** *Minnetonka, MN - 11/2019 -- 06/2022*
 
-    Flexibility in Tool Selection and Development:
-        Being proficient in full-stack technologies gives analysts the flexibility to choose the right tools for the job or even develop custom tools when off-the-shelf solutions don't meet their needs.
+-   Implemented models to predict member diagnoses.
+-   Discovered a technique to automate database reconciliation, requiring `.xml` and unstructured data processing.
+-   Configured bare-metal RHEL server with required libraries, then scripted OCR process to extract `.pdf` info and insert into database.
+-   In zero-sum ACA marketplace, consistently outperformed competition.
 
-    Increased Job Marketability:
-        In the job market, an analyst with full-stack skills stands out. They're not only capable of understanding and interpreting data but also of building the tools to do so, which is a highly sought-after combination.
+### United Health Group R&D
 
-In short, full-stack skills extend an analyst's capabilities from mere data analysis to creating comprehensive, interactive, and automated solutions, making them a highly versatile and valuable member of any data science team.
+**Developer/Data Scientist, contract.** *Minneapolis, MN - 01/2019 --
+11/2019*
+
+-   Developed healthcare claims analyses using SQL, Python, and machine learning concepts, resulting in actionable findings presented to the CEO.
+-   Authored scripts for transforming data, pulling from APIs, ETL, validation, and visualizations.
+-   Worked on the development of a next-gen big data database for health researchers.
+
+### Munich Reinsurance
+
+**Sr. Data Analyst.** *Minneapolis, MN - 05/2017 -- 12/2018*
+
+-   Programmatically swept filesystem for all unstructured, disparate claims and transformed them into structured data. Designed and populated a 7+ million record star-schema database.
+-   Analyzed DIY database to discover insights such as leading diagnoses by prevalence and cost.
+-   Created and deployed custom-built productivity tools with a GUI frontends.
+
+### Decyphed
+
+**Entrepreneurial NLP Developer.** *Paris, France - 05/2015 -- 01/2016*
+
+-   Programmed text analysis plug-ins/tools specialized in language learning applications.
+
+### Saylor Consulting
+
+**Industry Cost Consultant, contract. Recommendation available.** *San
+Francisco, CA - 12/2013 -- 07/2014*
+
+-   Analyzed industry factors influencing construction industry costs (material/labor) and forecast prices.
+-   Overhauled cost benchmarking using early industry indicators, resulting in algorithmic, reproducible cost setting.
+-   Delivered data-driven market analysis reports and product presentations to Federal client.
+
+### GE Capital REIM
+
+**Investor Relations.** *Paris, France - 07/2012 -- 12/2012*
+
+-   Oversaw financial database, competitor and industry developments, financial metrics.
+-   Interpreted market fundamentals for big-ticket investors seeking to purchase entire real estate fund portfolio.
+-   All \$25+ billion in assets sold off to Blackstone and other financial institutions.
+
+### Xinhua News Agency
+
+**Financial News.** *Beijing, China - 02/2009 -- 07/2011*
+
+-   Led a 15+ international team in the creation of an economics news show. Led by example, working 6 months straight without weekends or PTO in order to satisfy high pressure deadline.
+-   Innovated demand-driven airtime allocation, using API article topic demand divided by total. Approach was anonymously leaked to CNN International, and appeared on their broadcast lineup for months to years. Still bitter.
+-   Economics news program ended up selling content to top global news channels and advertising in Times Square.
+
+### Caijing Magazine
+
+**Economic Research Assistant.** *Beijing, China - 01/2008 -- 09/2008*
+
+-   Published 15+ print stories, commodity reports, and analyses.
+-   Administered and redesigned website. Introduced self made podcasts, video stories, user comments, and other Web 2 technologies, doubling online readership.
+-   Managed the internship program, allocated work based on strengths and interests.
+
+### College, high school jobs
+
+*Minneapolis, Minnesota.* 1/2001 -- 12/2007
+
+-   College: Owner of brick-and-mortar art studio providing website design, search engine optimization and graphic design services.
+-   High school/college: Employee of small business providing graphic design, search engine optimization and offsite hosting/storage services.
+
+## Formal Education
+
+### St. Thomas University
+
+St. Paul, USA. 2023
+
+-   Double MSc in Software Engineering and Data Science
+-   Double MSc Certifications in AI and Big Data
+-   GPA 3.9
+
+### EDHEC Business School
+
+Nice, France. 2012
+
+-   MSc Finance
+
+### Hamline University
+
+St. Paul, USA. 2007
+
+-   BA Economics
+
+## Skills
+
+**Tech**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Aspiring to build decoupled microservices, APIs (RESTful/GraphQL), fullstack prototyping, 12-factor app solutions.
+
+**Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
+
+**Languages**: English, French and Mandarin Chinese (CEFR B2, but diminishing).
