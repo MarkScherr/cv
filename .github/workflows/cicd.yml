@@ -1,4 +1,4 @@
-name: Convert Markdown to pdf and docx
+git statname: Convert Markdown to pdf and docx
 
 on:
   push:
@@ -31,7 +31,7 @@ jobs:
           COMMIT_HASH=$(git rev-parse --short HEAD)
           
           # Add timestamp and commit info right after the name with clickable commit link
-          sed -i "2i\\*Last updated: ${TIMESTAMP} | Commit: [${COMMIT_HASH}](https://github.com/garthmortensen/cv/commit/${COMMIT_HASH})*\n" cv.md
+          sed -i "2i\\Last updated: ${TIMESTAMP} | Commit: [${COMMIT_HASH}](https://github.com/garthmortensen/cv/commit/${COMMIT_HASH})\n" cv.md
 
       - name: Copy CV to README
         run: cp cv.md README.md
