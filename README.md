@@ -137,4 +137,4 @@ St. Paul, USA. 2007
 
 **Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
 
-**Languages**: English, French and Mandarin Chinese (CEFR B2, but diminishing).
+**Languages**: English, French and Mandarin Chinese (diminishing CEFR B2).
