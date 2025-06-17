@@ -1,16 +1,16 @@
 # Garth Mortensen
 
-Contact: <mortensengarth@outlook.com> \| (612) 212-9519 \| Minneapolis, MN
+Latest version: [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
+
+Contact: <mortensengarth@hotmail.com> \| (612) 212-9519 \| Minneapolis, MN
 
 Profile:
 [github.com/garthmortensen](https://www.github.com/garthmortensen)
 \| [linkedin.com/in/mortensengarth](https://www.linkedin.com/in/mortensengarth)
 
-Latest version: [PDF](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [DOCX](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
-
 ## Data Scientist
 
-Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical fullstack teams to achieve organizational success.
+Creative coder experienced in data science, software engineering and CI/CD. Adept at bridging the gap between technical and non-technical audiances.
 
 ## Latest Project: [SpilloverLab.com](https://www.spilloverlab.com)
 
