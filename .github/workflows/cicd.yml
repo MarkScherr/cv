@@ -1,4 +1,4 @@
-git statname: Convert Markdown to pdf and docx
+name: Convert Markdown to pdf and docx
 
 on:
   push:
