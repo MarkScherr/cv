@@ -1,4 +1,6 @@
 # Garth Mortensen
+*Last updated: 2025-06-17 | Commit: [30e7063](https://github.com/garthmortensen/cv/commit/30e7063)*
+
 
 Latest version: [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf) \| [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)
 
