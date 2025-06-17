@@ -33,6 +33,9 @@ jobs:
           # Add timestamp and commit info right after the name with clickable commit link
           sed -i "2i\\*Last updated: ${TIMESTAMP} | Commit: [${COMMIT_HASH}](https://github.com/garthmortensen/cv/commit/${COMMIT_HASH})*\n" cv.md
 
+      - name: Copy CV to README
+        run: cp cv.md README.md
+
       - name: Convert Markdown to PDF
         run: pandoc cv.md -o latest-output/cv_garthmortensen.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
 
@@ -43,7 +46,7 @@ jobs:
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add cv.md latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
+          git add cv.md README.md latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
