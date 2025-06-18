@@ -1,6 +1,6 @@
 # Garth Mortensen
 
-*Download latest version as [.pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf), [.docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)*
+*Download latest version as [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf), [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)*
 
 (612) 212-9519 \| Minneapolis, MN
 
@@ -9,9 +9,9 @@
 [GitHub](https://www.github.com/garthmortensen)
 \| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
 
-## Data Scientist
+## Data Science Engineer
 
-Experienced data scientist and creative software engineer, fluent in CI/CD and end-to-end production systems.
+Creative data scientist and software engineer, skilled at wiring up end-to-end production systems.
 
 ## Featured Project: [SpilloverLab.com](https://www.spilloverlab.com)
 
