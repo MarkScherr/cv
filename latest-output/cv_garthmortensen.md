@@ -23,11 +23,12 @@ A live financial time series analysis platform featuring ARIMA, GARCH, and spill
 
 **Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
 
--   Maintained multiple models, infrastructure, dashboards, adhoc analyses for Board of Governors.
--   Served as Production econometric team's informal python lead, and formal liaison to middle and backend teams, ensuring smooth integration.
--   Independently introduced unit testing, CI/CD, Makefiles, simple-English docs.
--   Trained economists in Python, Linux, and computer science principles, promoting self-sufficiency.
+-   Maintained multiple predictive models, modeling team's bespoke orchestration pipelines, dashboards, adhoc analyses for Board of Governors.
+-   Served as Production econometric team's informal python lead, and formal liaison to frontend, database, QA, ETL, and sysadmin teams, working hand-in-hand to ensure seamless integration across distributed computing and highly-secure filesystem infrastructure.
+-   Independently introduced python unit testing, Makefiles, simple-English docs.
+-   Promoted self-sufficiency by mentoring economists and interns in Python, Linux, and computer science principles.
 -   Technical lead in migrating Production codebase across OS, language versions, environments, enabling mission-critical reproducibility.
+-   TODO: Pushed {n=10?} Production model releases.
 
 ### University of Minnesota Coding Bootcamp
 
