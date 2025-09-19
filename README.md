@@ -11,11 +11,15 @@
 
 ## Data Science Engineer
 
-Creative data scientist and software engineer, skilled at wiring up end-to-end production systems.
+Full-stack data scientist with a strong data engineering backbone. I work well in teams of any size, but prefer environments with minimal red tape, where continuous progress is possible. I love creative destruction: automating manual pipelines, simplifying complexity, and designing a clean, maintainable architecture. If you need someone who can provide everything from infrastructure to insights, let’s talk.
 
-## Featured Project: [SpilloverLab.com](https://www.spilloverlab.com)
+Python, SQL, and Linux are my comfort zone.
 
-A live financial time series analysis platform featuring ARIMA, GARCH, and spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control.  Built with a modular, microservice-based architecture, deployed to the cloud, and fully [documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), and [quality controlled](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
+## Example Project: [SpilloverLab.com](https://www.spilloverlab.com)
+
+A live financial time series analysis platform that provides market spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and (still in development) [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control.  Built with a modular, microservice-based architecture, deployed to the cloud, and well [documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), with [quality control](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
+
+Give the site a minute to load - it's on ice.
 
 ## Professional Experience
 
@@ -27,7 +31,7 @@ A live financial time series analysis platform featuring ARIMA, GARCH, and spill
 -   Served as Production econometric team's informal python lead, and formal liaison to frontend, database, QA, ETL, and sysadmin teams, working hand-in-hand to ensure seamless integration across distributed computing and highly-secure filesystem infrastructure.
 -   Independently introduced python unit testing, Makefiles, simple-English docs.
 -   Promoted self-sufficiency by mentoring economists and interns in Python, Linux, and computer science principles.
--   Technical lead in migrating Production codebase across OS, language versions, environments, enabling mission-critical reproducibility.
+-   Technical lead in migrating *vast* Production codebase across OS, language versions, environments, enabling mission-critical reproducibility.
 -   TODO: Pushed {n=10?} Production model releases.
 
 ### University of Minnesota Coding Bootcamp
