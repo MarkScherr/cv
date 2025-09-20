@@ -1,147 +1,92 @@
-# Garth Mortensen
+# Mark Scherr
 
-*Download latest version as [pdf](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.pdf), [docx](https://github.com/garthmortensen/cv/raw/main/latest-output/cv_garthmortensen.docx)*
+*Download latest version as [pdf](https://github.com/MarkScherr/cv/raw/main/latest-output/cv_markscherr.pdf), [docx](https://github.com/MarkScherr/cv/raw/main/latest-output/cv_markscherr.docx)*
 
-(612) 212-9519 \| Minneapolis, MN
+(651) 428-6577 \| Twin Cities, MN
 
-<mortensengarth@hotmail.com>
+<mrscherr@gmail.com>
 
-[GitHub](https://www.github.com/garthmortensen)
-\| [LinkedIn](https://www.linkedin.com/in/mortensengarth)
+[GitHub](https://www.github.com/MarkScherr)
+\| [LinkedIn](https://www.linkedin.com/in/mark-scherr)
 
-## Data Science Engineer
+## Software Engineer
 
-Full-stack data scientist with a strong data engineering backbone. I love creative destruction: automating manual pipelines, simplifying complexity, and designing a clean, maintainable architecture. If you need someone who can provide everything from infrastructure to insights, let's talk.
+7 years of experience building scalable, secure, and practical solutions that deliver results. Led projects from concept to deployment, consistently delivering results beyond expectations. Strong focus on automation and streamlining complex workflows to save time, reduce costs, and enhance performance. Collaborates effectively within and across teams to ensure tasks are completed efficiently and on time.
 
-Python, SQL, and Linux are my comfort zone.
-
-## Example Work: [SpilloverLab.com](https://www.spilloverlab.com)
-
-*This site sits on cold storage, so it needs a minute to load.*
-
-It's a live time series analysis platform that provides financial market spillover modeling. It delivers simple-English interpretations, interactive visualizations, [REST](https://api.spilloverlab.com/redoc) and [GraphQL](https://api.spilloverlab.com/v1/graphql/) APIs, and (still in development) [MCP server integration](https://github.com/garthmortensen/timeseries-api/blob/main/mcp_server.py) for AI agent control. Constructed with a modular, microservice-based architecture, deployed via cloud, and well [documented](https://timeseries-compute.readthedocs.io/en/latest/), [tested](https://app.codecov.io/gh/garthmortensen/timeseries-api), with [quality control](https://app.codacy.com/gh/garthmortensen/timeseries-api/dashboard) via CI/CD.
 
 ## Professional Experience
 
-### Federal Reserve Bank of Minneapolis
+### Medica 
 
-**Sr. Data Scientist, National Stress Testing Program, Production.** *Minneapolis, MN - 06/2022 -- Present*
+**Senior Software Engineer Consultant** *Minnetonka, MN - 04/2024 -- Present*
 
--   Maintained predictive credit risk models, modeling team's bespoke orchestration pipelines, dashboards, and performed adhoc analyses for Board of Governors.
--   Served as Production econometric team's informal python lead, and formal liaison to frontend, database, QA, ETL, and sysadmin teams.
--   Introduced python unit testing, Makefiles, simple-English autodocs.
--   Supported self-sufficiency by mentoring economists, quants, and interns in Python, Linux, and computer science principles.
--   Led migration of *vast* Production codebase across OS, language versions, environments, enabling mission-critical reproducibility under regulator-grade risk management framework.
--   Pushed 10+ high standards, high rigor Production model releases.
+-   Refactor data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with the database. 
+-   Enhance security by upgrading Python and Java applications to utilize Azure Active Directory Access.
+-   Optimize application stability through the migration of all microservices to Java 17.
+-   Create a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
+-   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications. 
+-   Refactor data access in an ASP.NET Core controller-based Web API, introducing new data source mappings and improving thread-safe interactions with the database. 
+-   Develop and maintain RESTful APIs using Java Spring Boot in order to adapt to dynamic business rules.
 
-### University of Minnesota Coding Bootcamp
 
-**Fintech Instructor. [Student
-Review](https://www.coursereport.com/schools/university-of-minnesota-boot-camps?shared_review=42025#reviews).**
-*Saint Paul, MN - 09/2021 -- 04/2023*
+### TalentReef
 
--   Taught Python programming to working professionals, ranging from sysadmins to finance directors.
--   Explored cutting-edge topics such as ML/AI and blockchain/Solidity smart contracts.
--   Scored 9/10 across all rating categories (engagement, clarity, knowledge), across 270+ lecture hours.
+**Software Engineer** *Denver, CO - 09/2021 -- 04/2024*
 
-### Medica
+-   Integrated MS SQL Server with Amazon S3 via Kafka Connectors, enabling real-time data streaming for visualization in Amazon QuickSight.
+-   Replaced manual SQL workflows by designing and implementing RESTful APIs using Java Spring Boot.
+-   Modernized legacy systems by creating RESTful APIs strangulating ColdFusion Servers.
+-   Rapidly adapted to legacy technologies, including ColdFusion, Logi Report, and Node.js.
+-   Extracted and analyzed metadata from web applications using React and DynamoDB, enabling precise groupings of user origins.
 
-**Sr. Healthcare Analyst** *Minnetonka, MN - 11/2019 -- 06/2022*
 
--   Implemented models to predict member health scores.
--   Discovered techniques to automate database reconciliation.
--   Configured bare-metal Linux server to run automated OCR process to ETL `.pdf` information into database.
--   In zero-sum ACA marketplace, consistently outperformed competition.
+### Kingland Systems
+
+**Software Engineer Consultant** *Aimes, IA - 09/2020 -- 09/2021*
+
+-   Configured simulated production environments using Terraform to create an entire AWS Step Function app utilizing SNS, ECS, Lambda, Route 53, and IAM.
+-   Delivered comprehensive support for a monolithic Java EE application, ensuring compliance and system integrity through active monitoring.
+-   Improved user experience by implementing Angular ngx-translate for dynamic language support and field updates.
+-   Automated workflows by creating AWS Lambda using API Gateway, replacing less often used endpoints.
+
+
+### Best Buy
+
+**Software Engineer Consultant** *Richfield, IA - 09/2020 -- 09/2021*
+
+-   Designed and implemented a RESTful API using Java Spring Boot for storing and accessing coupon codes between visitors and logged in users by linking IP addresses.
+-   Strengthened security by re-engineering the authentication service for a customer data management system.
+-   Boosted system performance by contributing to the development of numerous high-efficiency API endpoints.
+-   Enhanced consumer experience by adding a feature to label previously purchased items and the date they were purchased.
+
 
 ### United Health Group R&D
 
-**Developer/Data Scientist, contract.** *Minneapolis, MN - 01/2019 --
-11/2019*
+**Data Engineer Consultant** *Minnetonka, MN - 01/2019 -- 06/2019*
 
--   Replicated academic research on internal data to uncover actionable insights presented to the CEO.
--   Built end-to-end data pipelines: API ingestion, transformation, validation, and visualization.
--   Contributed to the design and development of a next-gen big data platform for health research.
+-   Conducted healthcare analytics using SQL, Python, and Java, presenting actionable insights to the United States Senate Committee on Health, Education, Labor, and Pensions.
+-   Improved data management by optimizing SQL Server and Teradata databases.
+-   Designed a Python application to populate databases and execute scripts, generating result tables to support critical decision-making.
 
-### Munich Reinsurance
 
-**Sr. Data Analyst.** *Minneapolis, MN - 05/2017 -- 12/2018*
+### ID Insight
 
--   Programmatically scanned and transformed unstructured claims data into a structured 7M+ record star-schema database.
--   Analyzed the resulting dataset to surface insights, including reports for top diagnoses by cost and prevalence, and ML decision tree to predict claims.
--   Built and deployed custom productivity tools with clean, user-friendly UI frontends.
+**Full Stack Developer Consultant** *Minneapolis, MN - 04/2018 -- 10/2018*
 
-### Decyphed
-
-**Entrepreneurial NLP Dev.** *Paris, France - 05/2015 -- 01/2016*
-
--   Programmed text analysis plug-ins/tools specialized in language learning applications.
-
-### Saylor Consulting
-
-**Industry Cost Consultant, contract. Recommendation available.** *San
-Francisco, CA - 12/2013 -- 07/2014*
-
--   Analyzed industry factors influencing construction industry costs (material/labor) and forecast prices.
--   Overhauled cost benchmarking using early industry indicators, resulting in algorithmic, reproducible cost setting.
--   Delivered data-driven market analysis reports and product presentations to Federal client.
-
-### GE Capital REIM
-
-**Investor Relations.** *Paris, France - 07/2012 -- 12/2012*
-
--   Oversaw financial database, competitor and industry developments, financial metrics.
--   Interpreted market fundamentals for big-ticket investors seeking to purchase entire real estate fund portfolio.
--   All \$25+ billion in assets sold off to Blackstone and other financial institutions.
-
-### Xinhua News Agency
-
-**Financial News.** *Beijing, China - 02/2009 -- 07/2011*
-
--   Led a 15+ person international team to launch a new economics news show, working 6+ months without PTO to meet a high-stakes deadline.
--   Developed a demand-driven airtime allocation algorithm based on API-driven topic popularity; the method was later leaked to CNN International and appeared on their daily broadcast lineup.
--   The program successfully sold content to major global news networks including CNN and Nikkei.
-
-### Caijing Magazine
-
-**Economic Research Assistant.** *Beijing, China - 01/2008 -- 09/2008*
-
--   Published 15+ print stories, commodity reports, and analyses.
--   Administered and redesigned website. Introduced self made podcasts, video stories, user comments, and other Web 2 technologies, doubling online readership.
--   Managed the internship program, allocated work based on strengths and interests.
-
-### College, high school jobs
-
-*Minneapolis, Minnesota.* 1/2001 -- 12/2007
-
--   College: Owner of brick-and-mortar studio providing website design, SEO and graphic design services.
--   High school: Employee of small business providing graphic design, SEO and offsite hosting/storage services.
+-   Developed Java microservices to filter databases based on fraudulent scores, transactions, and sub-companies.
+-   Created impactful stakeholder presentations by visualizing data through D3.js graphs.
+-   Improved data accessibility and efficiency by building a RESTful API with Java Spring Boot to handle obscure PostgreSQL requests.
 
 ## Formal Education
 
-### St. Thomas University
+### Metropolitan State University
 
-St. Paul, USA. 2023
+St. Paul, USA. 2017
 
--   Double MSc in Software Engineering and Data Science
--   Double MSc Certifications in AI and Big Data
--   GPA 3.9
-
-### EDHEC Business School
-
-Nice, France. 2012
-
--   MSc Finance
-
-### Hamline University
-
-St. Paul, USA. 2007
-
--   BA Economics
+-   Bachelor of Science in Computer Science
 
 ## Skills
 
-**Tech**: Python/R, SQL/NoSQL, database design, Linux, APIs, AWS, CI/CD, containers. Aspiring to build decoupled microservices, APIs (RESTful/GraphQL), fullstack prototyping, 12-factor app solutions.
+**Tech**: Java, Python, SQL/NoSQL, .NET, AWS, Azure, PySpark, CI/CD, Linux, APIs, microservices, RESTful APIs 
 
-**Certifications**: MS Software Development, MS Databases, MS IT Networking, MS IT Security, MS HTML/CSS, AWS Cloud Practitioner, Graph SQL, Google Analytics IQ, Excel/VBA, Bloomberg Terminal.
-
-**Languages**: English, French and Mandarin Chinese (diminishing CEFR B2).
+## Skills
