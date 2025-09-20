@@ -29,16 +29,16 @@ jobs:
         run: cp README.md latest-output/cv_markscherr.md
 
       - name: Convert Markdown to PDF
-        run: pandoc README.md -o latest-output/cv_garthmortensen.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
+        run: pandoc README.md -o latest-output/cv_markscherr.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
 
       - name: Convert Markdown to DOCX
-        run: pandoc README.md -o latest-output/cv_garthmortensen.docx --reference-links
+        run: pandoc README.md -o latest-output/cv_markscherr.docx --reference-links
 
       - name: Commit files to the repo
         run: |
           git config --local user.name 'github-actions[bot]'
           git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-          git add latest-output/cv_garthmortensen.md latest-output/cv_garthmortensen.pdf latest-output/cv_garthmortensen.docx
+          git add latest-output/cv_markscherr.md latest-output/cv_markscherr.pdf latest-output/cv_markscherr.docx
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
