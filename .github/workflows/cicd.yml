@@ -26,7 +26,7 @@ jobs:
         run: mkdir -p latest-output
 
       - name: Copy README to output directory
-        run: cp README.md latest-output/cv_garthmortensen.md
+        run: cp README.md latest-output/cv_markscherr.md
 
       - name: Convert Markdown to PDF
         run: pandoc README.md -o latest-output/cv_garthmortensen.pdf --pdf-engine=pdflatex --variable=colorlinks:true --variable=linkcolor:blue --variable=urlcolor:blue
