@@ -1,5 +1,6 @@
 # Mark Scherr
 
+
 *Download latest version as [pdf](https://github.com/MarkScherr/cv/raw/main/latest-output/cv_markscherr.pdf), [docx](https://github.com/MarkScherr/cv/raw/main/latest-output/cv_markscherr.docx)*
 
 (651) 428-6577 \| Twin Cities, MN
@@ -25,7 +26,6 @@
 -   Optimize application stability through the migration of all microservices to Java 17.
 -   Create a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
 -   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications. 
--   Refactor data access in an ASP.NET Core controller-based Web API, introducing new data source mappings and improving thread-safe interactions with the database. 
 -   Develop and maintain RESTful APIs using Java Spring Boot in order to adapt to dynamic business rules.
 
 
@@ -33,11 +33,11 @@
 
 **Software Engineer** *Denver, CO - 09/2021 -- 04/2024*
 
--   Integrated MS SQL Server with Amazon S3 via Kafka Connectors, enabling real-time data streaming for visualization in Amazon QuickSight.
+-   Integrated MS SQL Server to Amazon S3 using Kafka Connectors, enabling real-time data streaming for visualization in Amazon QuickSight.
 -   Replaced manual SQL workflows by designing and implementing RESTful APIs using Java Spring Boot.
 -   Modernized legacy systems by creating RESTful APIs strangulating ColdFusion Servers.
--   Rapidly adapted to legacy technologies, including ColdFusion, Logi Report, and Node.js.
--   Extracted and analyzed metadata from web applications using React and DynamoDB, enabling precise groupings of user origins.
+-   Rapidly adapted to legacy technologies, including: ColdFusion, Logi Report, and Node.js.
+-   Extracted and analyzed metadata via Breadcrumbs from web applications using React and DynamoDB. 
 
 
 ### Kingland Systems
