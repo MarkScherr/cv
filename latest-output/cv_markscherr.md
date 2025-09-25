@@ -10,10 +10,15 @@
 [GitHub](https://www.github.com/MarkScherr)
 \| [LinkedIn](https://www.linkedin.com/in/mark-scherr)
 
+## Career Highlights
+**TalentReef/Mitratech:**
+Engineered a real-time data lake pipeline by capturing SQL Server change data via Kafka Debezium and Connect, streaming JSON updates to Amazon S3, and transforming data with AWS Glue PySpark and Athena into data for visualization in Amazon QuickSight; eliminating the need for legacy Logi Report workflows and improving real-time results.
+
+**Best Buy:**
+Designed and deployed a coupon code Java RESTful API backed by CockroachDB, linking visitor IDs to IP addresses and persisting coupon codes across both anonymous and logged-in sessions; ensuring slick redemption and usability of the offers.
+
 ## Software Engineer
-
-7 years of experience building scalable, secure, and practical solutions that deliver results. Led projects from concept to deployment, consistently delivering results beyond expectations. Strong focus on automation and streamlining complex workflows to save time, reduce costs, and enhance performance. Collaborates effectively within and across teams to ensure tasks are completed efficiently and on time.
-
+With over 7 years of experience designing and modernizing scalable, secure systems across healthcare, retail, and managerial software platforms. Proficient in Java (Spring Boot, Java 17), Python, .NET, and React, with hands-on experience building responsive frontends and extracting metadata using Breadcrumbs for analytics and data visualization. Skilled in building real-time data pipelines using Kafka, AWS S3, AWS Glue, and AWS Athena as well as developing RESTful APIs, microservices, and secure authentication integrations with Azure Active Directory. Experienced in containerization and infrastructure automation using Docker, Kubernetes, and Terraform.
 
 ## Professional Experience
 
@@ -23,7 +28,6 @@
 
 -   Refactor data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with the database. 
 -   Enhance security by upgrading Python and Java applications to utilize Azure Active Directory Access.
--   Optimize application stability through the migration of all microservices to Java 17.
 -   Create a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
 -   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications. 
 -   Develop and maintain RESTful APIs using Java Spring Boot in order to adapt to dynamic business rules.
@@ -84,10 +88,6 @@
 St. Paul, USA. 2017
 
 -   Bachelor of Science in Computer Science
-
-## Skills
-
-**Tech**: Java, Python, SQL/NoSQL, .NET, AWS, Azure, PySpark, CI/CD, Linux, APIs, microservices, RESTful APIs 
 
 ## Interests
 disc golf, hiking, fishing, Star Wars, board games
