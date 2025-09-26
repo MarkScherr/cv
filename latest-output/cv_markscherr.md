@@ -15,7 +15,7 @@
 Engineered a real-time data lake pipeline by capturing SQL Server change data via Kafka Debezium, streaming JSON updates to Amazon S3 via Kafka Connect, and transforming data with AWS Glue PySpark and Athena into a dataset for visualization in Amazon QuickSight. This removed reliance on legacy Logi Report workflows and enhanced real-time results.
 
 **Best Buy:**
-Designed and deployed a coupon code Java RESTful API backed by CockroachDB, linking visitor IDs to IP addresses and persisting coupon codes across both anonymous and logged-in sessions; ensuring slick redemption and usability of the offers.
+Designed and deployed a coupon code Java RESTful API backed by CockroachDB, linking visitor IDs to IP addresses and persisting coupon codes across both anonymous and logged-in sessions, ensuring seamless coupon redemption and optimal user experience.
 
 ## Software Engineer
 With over 7 years of experience designing and modernizing scalable, secure systems across healthcare, retail, and managerial software platforms. Proficient in Java (Spring Boot, Java 17), Python, SQL, .NET, and React with hands-on experience building microservices, responsive frontends, and extracting metadata using Breadcrumbs for analytics and data visualization. Skilled in building real-time data pipelines using Kafka, AWS S3, AWS Glue, and AWS Athena as well as developing RESTful APIs, microservices, and secure authentication integrations with Azure Active Directory. Experienced in containerization and infrastructure automation using Docker, Kubernetes, and Terraform.
