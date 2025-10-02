@@ -26,10 +26,10 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 **Senior Software Engineer Consultant** *Minnetonka, MN - 04/2024 -- Present*
 
--   Refactor data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with the database. 
+-   Refactor data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with the database.
 -   Enhance security by upgrading Python and Java applications to utilize Azure Active Directory Access.
 -   Create a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
--   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications. 
+-   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications.
 -   Develop and maintain RESTful APIs using Java Spring Boot in order to adapt to dynamic business rules.
 
 
@@ -37,11 +37,11 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 **Software Engineer** *Denver, CO - 09/2021 -- 04/2024*
 
--   Integrated MS SQL Server to Amazon S3 using Kafka Connectors, enabling real-time data streaming for visualization in Amazon QuickSight.
+-   Tasked with partnering with all teams to transition from manual, ad-hoc deployment processes to a standardized CI/CD pipeline, enforcing JaCoCo 90% test coverage as a quality gate.
 -   Replaced manual SQL workflows by designing and implementing RESTful APIs using Java Spring Boot.
--   Modernized legacy systems by creating RESTful APIs strangulating ColdFusion Servers.
--   Rapidly adapted to legacy technologies, including: ColdFusion, Logi Report, and Node.js.
--   Extracted and analyzed metadata via Breadcrumbs from web applications using React and DynamoDB. 
+-   Modernized legacy systems by creating RESTful APIs, AWS Lambda (Python and Node.js), and React strangulating ColdFusion Servers.
+-   Rapidly adapted to legacy technologies, including: ColdFusion, Logi Report, and Scala.
+-   Extracted and analyzed metadata via Breadcrumbs from web applications using Spring Boot, React, and DynamoDB.
 
 
 ### Kingland Systems
@@ -58,10 +58,10 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 **Software Engineer Consultant** *Richfield, IA - 09/2020 -- 09/2021*
 
--   Designed and implemented a RESTful API using Java Spring Boot for storing and accessing coupon codes between visitors and logged in users by linking IP addresses.
 -   Strengthened security by re-engineering the authentication service for a customer data management system.
--   Boosted system performance by contributing to the development of numerous high-efficiency API endpoints.
+-   Boosted system performance by contributing to the development of numerous high-efficiency API endpoints. 
 -   Enhanced consumer experience by adding a feature to label previously purchased items and the date they were purchased.
+-   Collaborated closely with QA teams to create and adjust Groovy integration tests for automation.
 
 
 ### United Health Group R&D
