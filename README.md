@@ -24,43 +24,43 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 ### Medica 
 
-**Senior Software Engineer Consultant** *Minnetonka, MN - 04/2024 -- Present*
+**Senior Software Engineer Consultant** *Minnetonka, MN - 04/2024 -- 10/2025*
 
--   Refactor data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with the database.
--   Enhance security by upgrading Python and Java applications to utilize Azure Active Directory Access.
--   Create a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
--   Configure and update Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications.
--   Develop and maintain RESTful APIs using Java Spring Boot in order to adapt to dynamic business rules.
+-   Developed and maintained RESTful APIs using Java Spring in order to adapt to dynamic business rules.
+-   Created a robust data ingestion application utilizing Azure Blob Storage SDK for Java, converting public data into cost insights.
+-   Refactored data access in a .NET API, introducing new data source mappings and improving thread-safe interactions with Oracle.
+-   Enhanced security by upgrading Python and Java applications to utilize Azure Active Directory Access.
+-   Configured and updated Red Hat Enterprise Linux (RHEL) 8 servers, ensuring security and compatibility with enterprise applications.
 
 
 ### TalentReef
 
 **Software Engineer** *Denver, CO - 09/2021 -- 04/2024*
 
+-   Modernized legacy systems by creating RESTful APIs using Java Spring, AWS Lambda (Python and Node.js), and React strangulating ColdFusion Servers.
+-   Replaced manual SQL workflows by designing and implementing RESTful APIs using Java Spring.
 -   Tasked with partnering with all teams to transition from manual, ad-hoc deployment processes to a standardized CI/CD pipeline, enforcing JaCoCo 90% test coverage as a quality gate.
--   Replaced manual SQL workflows by designing and implementing RESTful APIs using Java Spring Boot.
--   Modernized legacy systems by creating RESTful APIs, AWS Lambda (Python and Node.js), and React strangulating ColdFusion Servers.
 -   Rapidly adapted to legacy technologies, including: ColdFusion, Logi Report, and Scala.
--   Extracted and analyzed metadata via Breadcrumbs from web applications using Spring Boot, React, and DynamoDB.
+-   Extracted and analyzed metadata via Breadcrumbs from web applications using Spring, React, and DynamoDB.
 
 
 ### Kingland Systems
 
 **Software Engineer Consultant** *Aimes, IA - 09/2020 -- 09/2021*
 
--   Configured simulated production environments using Terraform to create an entire AWS Step Function app utilizing SNS, ECS, Lambda, Route 53, and IAM.
 -   Delivered comprehensive support for a monolithic Java EE application, ensuring compliance and system integrity through active monitoring.
--   Improved user experience by implementing Angular ngx-translate for dynamic language support and field updates.
 -   Automated workflows by creating AWS Lambda using API Gateway, replacing less often used endpoints.
+-   Configured simulated production environments using Terraform to create an entire AWS Step Function app utilizing SNS, ECS, Lambda, Route 53, and IAM.
+-   Improved user experience by implementing Angular ngx-translate for dynamic language support and field updates.
 
 
 ### Best Buy
 
 **Software Engineer Consultant** *Richfield, IA - 09/2020 -- 09/2021*
 
--   Strengthened security by re-engineering the authentication service for a customer data management system.
--   Boosted system performance by contributing to the development of numerous high-efficiency API endpoints. 
+-   Boosted system performance by contributing to the development of numerous high-efficiency RESTful APIs using Java Spring.
 -   Enhanced consumer experience by adding a feature to label previously purchased items and the date they were purchased.
+-   Strengthened security by re-engineering the authentication service for a customer data management system.
 -   Collaborated closely with QA teams to create and adjust Groovy integration tests for automation.
 
 
@@ -68,7 +68,7 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 **Data Engineer Consultant** *Minnetonka, MN - 01/2019 -- 06/2019*
 
--   Conducted healthcare analytics using SQL, Python, and Java, presenting actionable insights to the United States Senate Committee on Health, Education, Labor, and Pensions.
+-   Conducted healthcare analytics using SQL, Python, and Java Spring, presenting actionable insights to the United States Senate Committee on Health, Education, Labor, and Pensions.
 -   Improved data management by optimizing SQL Server and Teradata databases.
 -   Designed a Python application to populate databases and execute scripts, generating result tables to support critical decision-making.
 
@@ -77,9 +77,9 @@ With over 7 years of experience designing and modernizing scalable, secure syste
 
 **Full Stack Developer Consultant** *Minneapolis, MN - 04/2018 -- 10/2018*
 
--   Developed Java microservices to filter databases based on fraudulent scores, transactions, and sub-companies.
--   Created impactful stakeholder presentations by visualizing data through D3.js graphs.
+-   Developed microservices using Java Spring to filter databases based on fraudulent scores, transactions, and sub-companies.
 -   Improved data accessibility and efficiency by building a RESTful API with Java Spring Boot to handle obscure PostgreSQL requests.
+-   Created impactful stakeholder presentations by visualizing data through D3.js graphs.
 
 ## Formal Education
 
